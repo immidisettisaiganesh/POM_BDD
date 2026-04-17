@@ -1,0 +1,6 @@
+pajeObjects\LoginPage_PageObject.class
+pajeObjects\BasePage.class
+Hooks\DriverManager.class
+runnerFiles\LoginRunnerFile.class
+stepDefinitions\ParaBankStepDefinations.class
+pajeObjects\HomePage_PageObject.class
